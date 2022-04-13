@@ -1,2 +1,6 @@
-# It's an E-Commerce Website, Meesho's clone which sells clothing related stuff.
-#As a Reseller, you share products listed on the Meesho app either with your network or on social media and earn a profit with every sale. There are 1 Lakh+ products on the app through which you can browse. The products are provided by suppliers, who have a tie-up with Meesho.
+# Meesho clone
+
+###### It's an E-Commerce website(Pepperfry) clone which sells furniture.
+
+##### Meesho is an Indian online marketplace for furniture and home décor. The company was formed by Ex-eBay executives Ambareesh Murty and Ashish Shah started Meesho in Mumbai in 2012. The company is headquartered in Mumbai, Maharashtra and operates as a subsidiary of Trendsutra Platform Services Private Limited.
+
